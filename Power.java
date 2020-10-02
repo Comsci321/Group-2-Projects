@@ -178,7 +178,7 @@ public class Power extends javax.swing.JFrame {
         if (powerInt >= 1 && powerInt <=10 ){
         //for loop     
             for (int i = 1; i <= powerInt; i++){
-             jTextAreaAns.append(baseInt + " to the power of " + i + " = " + Math.pow(baseInt, i) + "\n"); 
+             jTextAreaAns.append(baseInt + " to the power of theekk hket " + i + " = " + Math.pow(baseInt, i) + "\n"); 
 
 
             }
